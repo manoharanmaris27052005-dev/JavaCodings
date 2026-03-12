@@ -1,0 +1,22 @@
+package Polymorphism;
+
+class OverridingExample {
+
+    void sound() {
+        System.out.println("Animal makes sound");
+    }
+}
+
+class Dog extends OverridingExample {
+
+    void sound() {
+        System.out.println("Dog barks");
+    }
+
+
+    public static void main(String[] args) {
+
+        Dog d = new Dog();
+        d.sound();
+    }
+}
