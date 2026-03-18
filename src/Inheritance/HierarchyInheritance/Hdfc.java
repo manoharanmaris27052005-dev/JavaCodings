@@ -1,4 +1,4 @@
-package Inheritance.Hierarchy;
+package Inheritance.HierarchyInheritance;
 
 public class Hdfc extends Bank {
 

@@ -1,4 +1,4 @@
-package InheritanceMultilevel;
+package Inheritance.MultilevelInheritance;
 
 public class Animal {
 	

@@ -1,4 +1,4 @@
-package projecttt;
+package Patterns;
 
 public class Patterns {
 
